@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debora1832
+- 👋 Hi, I’m Débora Cristina
 - 👀 I’m interested in Ciência de dados
 - 🌱 I’m currently learning Python, Power by
 - 💞️ I’m looking to collaborate on ...
